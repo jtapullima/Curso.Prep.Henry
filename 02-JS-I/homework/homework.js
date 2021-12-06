@@ -1,6 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
+<<<<<<< HEAD
 const nuevaString = 'cumpleaños';
 
 // Crea una variable numérica, puede ser cualquier número:
@@ -8,6 +9,15 @@ const nuevoNum = 12;
 
 // Crea una variable booleana:
 const nuevoBool = 'true';
+=======
+const nuevaString = "cumpleaños";
+
+// Crea una variable numérica, puede ser cualquier número:
+const nuevoNum = 123;
+
+// Crea una variable booleana:
+const nuevoBool = true;
+>>>>>>> ef233ed4d7270b419054debe0b9b03a6b9a739be
 
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - 5 === 5;
@@ -27,34 +37,61 @@ const nuevoModulo = 21 % 5 === 1;
 
 function devolverString(str) {
   // "Return" la string provista: str
+<<<<<<< HEAD
   // Tu código:
   return str;
+=======
+  // Tu código: 
+  
+>>>>>>> ef233ed4d7270b419054debe0b9b03a6b9a739be
 }
 
 function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
+<<<<<<< HEAD
   // Tu código:
   var suma = x + y; return suma;
+=======
+  // Tu código: 
+  var suma = x + y; 
+  return suma;
+>>>>>>> ef233ed4d7270b419054debe0b9b03a6b9a739be
   
 }
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
+<<<<<<< HEAD
    var resta = x - y; return resta;
 }
+=======
+  var resta = x - y;
+  return resta; }
+>>>>>>> ef233ed4d7270b419054debe0b9b03a6b9a739be
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
+<<<<<<< HEAD
   var multiplica = x * y; return nuevaMultiplicacion
+=======
+  var multiplica = x * y;
+  return multiplica;
+>>>>>>> ef233ed4d7270b419054debe0b9b03a6b9a739be
 }
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
+<<<<<<< HEAD
   // Tu código:
   var divide = x / y; return division;
+=======
+  // Tu código: 
+  var divide = x / y;
+  return divide;
+>>>>>>> ef233ed4d7270b419054debe0b9b03a6b9a739be
 }
 
 function sonIguales(x, y) {
